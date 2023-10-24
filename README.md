@@ -7,4 +7,4 @@ Repositorio de testeo
 - Elemento 3
 
 > Texto de ejemplo
-> Texto de ejemplo para mencionar a otra persona
+> para mencionar a otra persona
